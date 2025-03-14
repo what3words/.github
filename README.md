@@ -1,1 +1,0 @@
-What3Words Public Repository
